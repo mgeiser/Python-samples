@@ -22,11 +22,11 @@ now = datetime.datetime.now()
 # Credentials for Profiles
 # DO NOT COMMIT TO SOURCE CONTROL WITH ACCESS KEYS AND SECRET KEYS (DUH!)
 # TODO Externalize these to a yaml file that is NOT commited to git
-access_key_sandbox = 'AKIAIZXA3XCC5QGMENNQ'
-secret_key_sandbox = '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'
+access_key_sandbox = ''
+secret_key_sandbox = ''
 
-access_key_production = 'AKIAJ3RWHNGJCN5NU5PA'
-secret_key_production = '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'
+access_key_production = ''
+secret_key_production = ''
 
 s3_host = 's3.us-east-1.amazonaws.com'
 
