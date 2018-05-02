@@ -1,0 +1,1 @@
+# This will be a class to hold values from the config file

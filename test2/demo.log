@@ -1,0 +1,7 @@
+
+2018-04-10 14:14:54,982 - root - MainThread -  WARNING - shit
+2018-04-10 14:14:54,982 - root - MainThread -  INFO - Hello, Python!
+2018-04-10 14:14:54,982 - root - MainThread -  DEBUG - I'm a debug message!
+2018-04-10 16:47:19,542 - root - MainThread -  WARNING - shit
+2018-04-10 16:47:19,542 - root - MainThread -  INFO - Hello, Python!
+2018-04-10 16:47:19,542 - root - MainThread -  DEBUG - I'm a debug message!
